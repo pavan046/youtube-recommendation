@@ -13,8 +13,8 @@ Information
 --------------------
 All the configuration can be set at "data/config/config.properties"
 The main functions are the following 
-1. Tagger
-2. Recommender 
+* Tagger
+* Recommender 
 
 Tagger
 -------------------
