@@ -32,4 +32,4 @@ Recommender uses a simple Jaccard co-efficient with both categories and tags to 
 
 
 
-Let me know if you have more questions and details
+Let me know if you have any questions
